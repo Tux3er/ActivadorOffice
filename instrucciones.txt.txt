@@ -1,0 +1,4 @@
+1. Abre un CMD
+2. Copia la primera linea en el CMD
+3. Copia la segunda linea en el CMD
+4. Disfruta de tu Office 2016 :D
