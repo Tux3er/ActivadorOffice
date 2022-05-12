@@ -1,0 +1,2 @@
+cd /d %ProgramFiles%\Microsoft Office\Office16
+for /f %x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
